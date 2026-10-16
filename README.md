@@ -23,12 +23,33 @@
 
 ## 示例视频
 
-| 工具 | 示例 |
-|---|---|
-| Claude | [打开 Claude 示例](examples/claude.mp4) |
-| Codex | [打开 Codex 示例](examples/codex.mp4) |
-| WorkBuddy | [打开 WorkBuddy 示例](examples/workbuddy.mp4) |
-| 豆包 | [打开豆包示例](examples/doubao.mp4) |
+### Claude
+
+<video controls width="640" preload="metadata">
+  <source src="https://raw.githubusercontent.com/YT-smart/pixel-explainer-video/main/examples/claude.mp4" type="video/mp4">
+  <a href="examples/claude.mp4">打开 Claude 示例</a>
+</video>
+
+### Codex
+
+<video controls width="640" preload="metadata">
+  <source src="https://raw.githubusercontent.com/YT-smart/pixel-explainer-video/main/examples/codex.mp4" type="video/mp4">
+  <a href="examples/codex.mp4">打开 Codex 示例</a>
+</video>
+
+### WorkBuddy
+
+<video controls width="640" preload="metadata">
+  <source src="https://raw.githubusercontent.com/YT-smart/pixel-explainer-video/main/examples/workbuddy.mp4" type="video/mp4">
+  <a href="examples/workbuddy.mp4">打开 WorkBuddy 示例</a>
+</video>
+
+### 豆包
+
+<video controls width="640" preload="metadata">
+  <source src="https://raw.githubusercontent.com/YT-smart/pixel-explainer-video/main/examples/doubao.mp4" type="video/mp4">
+  <a href="examples/doubao.mp4">打开豆包示例</a>
+</video>
 
 这些示例都是同一套像素风视频工作流在不同工具中的输出效果。
 
